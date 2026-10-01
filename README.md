@@ -127,3 +127,11 @@ Through this project, I practiced:
 Aspiring Data Analyst | BSc IT Student
 
 GitHub: [chaudharysujan586](https://github.com/chaudharysujan586)
+
+## Dashboard Preview
+
+![Bike Sales Dashboard](dashboard.png)
+
+## PivotTable Analysis
+
+![PivotTable Analysis](pivot-table.png)
