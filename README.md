@@ -130,8 +130,8 @@ GitHub: [chaudharysujan586](https://github.com/chaudharysujan586)
 
 ## Dashboard Preview
 
-![Bike Sales Dashboard](dashboard.png)
+![Bike Sales Dashboard](images/dashboard.png)
 
 ## PivotTable Analysis
 
-![PivotTable Analysis](pivot-table.png)
+![PivotTable Analysis](images/pivot-table.png)
